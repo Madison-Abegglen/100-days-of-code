@@ -21,3 +21,14 @@
 
 **Link to work:** 
 1. Twitter link - [Day 0 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1682446202032345093?s=20)
+
+### Day 1: July 24, 2023
+
+**Today's Progress:**
+1. Determine Project outline. Initialize new repo, connect to Github & update log page. 
+
+**Thoughts:** After 2 days reviewing JavaScript concepts, I've decided my first project will be a Dashboard application. I will start with a to-do list feature that can add, remove, and mark tasks as completed. With time, I will improve the application with new features: weather widget, and quote widget. May progess to adding a spotify player. May also implement into a browser extension - we'll see how it goes. This will help showcase my ability to build modular & expandable applications. 
+
+**Link to work:** 
+1. Twitter Link - [Day 1 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1683557722422214664?s=20)
+2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
