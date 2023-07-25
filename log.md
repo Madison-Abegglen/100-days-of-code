@@ -32,3 +32,14 @@
 **Link to work:** 
 1. Twitter Link - [Day 1 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1683557722422214664?s=20)
 2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 2: July 25, 2023
+
+**Today's Progress:**
+1. After deciding on the project objective, I planned the project tasks and milestones. This timeline currently includes 3 features to implement - the To-Do list, the Weather widget, and the Quote of the Day widget. These will be my milestones. Tasks breakdown currently focuses on the To-Do list. I started with planning, designing, and creating tasks for the dashboard layout first. 
+
+**Thoughts:** Day 2, and I'm starting with a great project plan. I'm really excited to visualize this concept, and get started on building it. I feel confident this is a great concept and project to have on my resume and portfolio. 
+
+**Link to work:** 
+1. Twitter Link - [Day 2 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1683875052880535552?s=20)
+2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
