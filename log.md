@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
 <!-- 
+Day Log Template
+
 ### Day X: Month Day, Year
 
 **Today's Progress:**
@@ -25,7 +27,8 @@
 ### Day 1: July 24, 2023
 
 **Today's Progress:**
-1. Determine Project outline. Initialize new repo, connect to Github & update log page. 
+1. Determine Project outline
+2. Initialize new repo, connect to Github & update log page. 
 
 **Thoughts:** After 2 days reviewing JavaScript concepts, I've decided my first project will be a Dashboard application. I will start with a to-do list feature that can add, remove, and mark tasks as completed. With time, I will improve the application with new features: weather widget, and quote widget. May progess to adding a spotify player. May also implement into a browser extension - we'll see how it goes. This will help showcase my ability to build modular & expandable applications. 
 
@@ -36,10 +39,35 @@
 ### Day 2: July 25, 2023
 
 **Today's Progress:**
-1. After deciding on the project objective, I planned the project tasks and milestones. This timeline currently includes 3 features to implement - the To-Do list, the Weather widget, and the Quote of the Day widget. These will be my milestones. Tasks breakdown currently focuses on the To-Do list. I started with planning, designing, and creating tasks for the dashboard layout first. 
+1. After deciding on the project objective, I planned the project tasks and milestones. This timeline currently includes 3 features to implement - the To-Do list, the Weather widget, and the Quote of the Day widget. These will be my milestones. 
+2. Tasks breakdown currently focuses on the To-Do list. I started with planning, designing, and creating tasks for the dashboard layout first. 
 
 **Thoughts:** Day 2, and I'm starting with a great project plan. I'm really excited to visualize this concept, and get started on building it. I feel confident this is a great concept and project to have on my resume and portfolio. 
 
 **Link to work:** 
 1. Twitter Link - [Day 2 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1683875052880535552?s=20)
+2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 3: July 26, 2023
+
+**Today's Progress:**
+1. After coming across an EJS tutorial, I decided I wanted to learn & implement it into this project. Its a great way to combine my vanilla JS knowledge into embedded JS w/ HTML templates. EJS is most often used to generate dynamic HTML content on the server-side, and particularly popular in Node.js and Express.js applications. 
+2. I've begun re-writing and organizing the application file structure and code to implement EJS going forward. 
+
+**Thoughts:** Day 3 was a long day of replacing the codebase I had with EJS funcitonality. However, I'm really enjoying the way EJS works and developing with it alongside Node and Express. I'm excited to get everything plugged in and working so I can get to the styling. 
+
+**Link to work:** 
+1. Twitter Link - [Day 3 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1684253442070413319?s=20)
+2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 4: July 27, 2023
+
+**Today's Progress:**
+1. Continued building out application mobility and funcitonality. 
+2. Minor styling, will enhance later. 
+
+**Thoughts:** I've spent much more time on coding in previous days. Today was a light session but some days, it's good to have that. I'm happy with the momentum I'm buildling. 
+
+**Link to work:** 
+1. Twitter Link - [Day 4 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1684627966565728257?s=20)
 2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
