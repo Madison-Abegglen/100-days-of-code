@@ -84,3 +84,15 @@ Day Log Template
 **Link to work:** 
 1. Twitter Link - [Day 5 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1684966355861213185?s=20)
 2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 6: July 31, 2023
+
+**Today's Progress:**
+1. More html content + css styling
+2. Organizing & reviewing content placement
+
+**Thoughts:** I'm excited to be back to coding after a long weekend of helping a friend move. 
+
+**Link to work:** 
+1. Twitter Link - [Day 6 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1686021131822673921?s=20)
+2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
