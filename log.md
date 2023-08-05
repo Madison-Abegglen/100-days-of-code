@@ -118,3 +118,16 @@ Day Log Template
 **Link to work:** 
 1. Twitter Link - [Day 8 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1687625899070427136?s=20)
 2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 9: August 5, 2023
+
+**Today's Progress:** 
+1. The follow-along video (I should have linked it in the log sooner...) I'm using for EJS templating was reviewing minor customization - element & :hover styling.
+2. Got distracted on the :hover animations and dove into that for the day. 
+
+**Thoughts:** I'm excited to be working on code daily again. The community on twitter has been very supportive and encouraging, which I enjoy. 
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 9 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1687961213169197056?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
