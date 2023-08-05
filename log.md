@@ -96,3 +96,25 @@ Day Log Template
 **Link to work:** 
 1. Twitter Link - [Day 6 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1686021131822673921?s=20)
 2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 7: August 1, 2023
+
+**Today's Progress:** Forgot to log this day! But I *did* commit my changes in my Quickdash app. Minor content & stlying update.
+
+**Thoughts:** This day wasn't as long - considering I needed to run to my partner's place to help start the packing. 
+
+**Link to work:** 
+1. Twitter Link - [Day 7 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1686404912626716672?s=20)
+2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 8: August 4, 2023
+
+**Today's Progress:** 2 days off while I was moving my partner out of his old apartment and into the new one.
+1. More templating 
+2. Content & Stlying - basics, wrapping up
+
+**Thoughts:** I'm EXHAUSTED. 2+ days of moving and packing and unpacking - only 2 days after helping move my friends into their new home, too. This week - physically, it took its toll. But mentally, I'm itching to get my momentum back up on this quickdash project. 
+
+**Link to work:** 
+1. Twitter Link - [Day 8 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1687625899070427136?s=20)
+2. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
