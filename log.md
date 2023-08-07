@@ -131,3 +131,16 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 9 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1687961213169197056?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 10: August 6, 2023
+
+**Today's Progress:** 
+1. Adjustments to content display 
+2. Focusing app functionality - potentially moving onto auth
+
+**Thoughts:** I'm reseted up from last week and regaining my momentum. One day at a time
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 10 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1688347887489413122?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
