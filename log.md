@@ -144,3 +144,27 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 10 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1688347887489413122?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 11: August 7, 2023 
+
+**Today's Progress:** 
+1. Focus on completing Login Page Content
+
+**Thoughts:** Focusing on sections of the application at a time (aka, login page, auth, routing, home, etc.) makes it easier to mentally compartmentalize this process.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 11 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1688674855950970881?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
+
+### Day 12: August 8, 2023
+
+**Today's Progress:** 
+1. Finished Login Page content. Moving onto next steps
+
+**Thoughts:** The tutorial isn't organizing the application building process the way I would personally, so I'm learning to be flexible when learning from someone else.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 12 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1688952021821403139?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://github.com/Madison-Abegglen/QuickDash)
