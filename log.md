@@ -180,3 +180,16 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 13 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 14: August 10, 2023
+
+**Today's Progress:** 
+1. Created the DB using MongoDB - connected app & testing it's working properly. 
+2. Began progress with Home page - not currently implementing a quote api until I've built & have a functioning task module. 
+
+**Thoughts:** I'm really happy with how smoothly I was able to connect the database. Currently thinking about how I'm going to build the server for managing tasks.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 14 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1689838969733681153?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
