@@ -193,3 +193,16 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 14 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1689838969733681153?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 15: August 11, 2023
+
+**Today's Progress:** 
+1. Fixed some font sizing on Login page.
+2. Started implementing responsive design and functionality on Home page. 
+
+**Thoughts:** It's SO satisfying finding smooth responsive ui code that is easy to implement. Css funciton clamp() was an amazing discovery.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 15 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1690077863695843328?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
