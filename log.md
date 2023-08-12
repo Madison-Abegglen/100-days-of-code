@@ -206,3 +206,15 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 15 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1690077863695843328?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 16: August 12, 2023
+
+**Today's Progress:** 
+1. Nearly finished design for Home Page - moving into functionality after implementing task btns
+
+**Thoughts:** Really had to make myself code for the hour today, but I'm glad I was able to make some changes and review more of the project I'm using for reference. 
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 16 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1690472640157282305?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
