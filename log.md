@@ -233,7 +233,7 @@ Day Log Template
 2. Twitter Link - [Day 17 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1691088871465877504?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 18: August 14, 2023
+### Day 18: August 15, 2023
 
 **Today's Progress:** 
 1. Focused on plugging in Task Data, to be continued and tested
@@ -245,7 +245,7 @@ Day Log Template
 2. Twitter Link - [Day 18 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1691659402070130902?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 19: August 14, 2023
+### Day 19: August 16, 2023
 
 **Today's Progress:** 
 1. Focused on editing task stlying - specifically, checkbox styling
@@ -255,4 +255,16 @@ Day Log Template
 **Link to work:** 
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 19 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1692006529761718413?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 20: August 17, 2023
+
+**Today's Progress:** 
+1. Determined Task styling & did a little testing.
+
+**Thoughts:** Checkbox styling is wayyy more time consuming and bigger of a challenge than I wanted it to be. 
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 20 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1692235723535974542?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
