@@ -244,3 +244,15 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 18 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1691659402070130902?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 19: August 14, 2023
+
+**Today's Progress:** 
+1. Focused on editing task stlying - specifically, checkbox styling
+
+**Thoughts:** It is SO frustrating that I cannot seem to recreate the checkbox. The only way I've figured to do this so far is to remove the default appearance, make my edits to size, color, etc., and then update the content attribute with the \2713 check mark unicode on :checked, but it's not working. Will continue to dig for an answer
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 19 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1692006529761718413?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
