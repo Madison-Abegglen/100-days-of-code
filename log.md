@@ -268,3 +268,16 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 20 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1692235723535974542?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 21: August 18, 2023
+
+**Today's Progress:** 
+1. Completed task styling including mobile.
+2. Decided to remove pagination.
+
+**Thoughts:** Yay its Friday! I had a technical interview today and I'm so very code-exhausted. 
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 21 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1692689763533308322?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
