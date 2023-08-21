@@ -294,3 +294,16 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 22 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1692992425717797067?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 23: August 20, 2023
+
+**Today's Progress:** 
+1. More Route reorganization and file renaming/file restructuring. 
+2. Implemented login form route, content and styling
+
+**Thoughts:** I love how information is sticking to my brain for once. Repitition and practice, even in small portions, make a huge difference.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 23 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1693442131132838220?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
