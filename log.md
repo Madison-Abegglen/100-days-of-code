@@ -307,3 +307,16 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 23 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1693442131132838220?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 24: August 22, 2023
+
+**Today's Progress:** 
+1. Worked on the Login form for mobile 
+2. Added regsiter form - still working on functionality.
+
+**Thoughts:** Oooo boy, today was a "why isn't it working?" day. It was bound to happen, with all the easy-footing I've had so far. Just another challenge to overcome
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 24 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1694186961446019390?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
