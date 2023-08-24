@@ -320,3 +320,15 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 24 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1694186961446019390?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 25: August 23, 2023
+
+**Today's Progress:** 
+1. Created an event listener for toggling register & login forms based on click event
+
+**Thoughts:** I'm very worried about my job prospects. I'm running out of time and money, and I'm working harder and more diligently then I ever have. I hope to see it pay off soon.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 25 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1694566894362042375?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
