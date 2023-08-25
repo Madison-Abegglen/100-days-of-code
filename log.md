@@ -332,3 +332,15 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 25 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1694566894362042375?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 26: August 23, 2023
+
+**Today's Progress:** 
+1. Fiddling with the routing - brain hurts.
+
+**Thoughts:** Oof its been somewhat challenging working with the routing and server side of this project. It's been some time since I've worked with Node and Express, but its certainly refreshing.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 26 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1694930792772759868?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
