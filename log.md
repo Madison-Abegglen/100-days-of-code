@@ -344,3 +344,15 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 26 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1694930792772759868?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 27: August 23, 2023
+
+**Today's Progress:** 
+1. Corrected Logout btn and header styling.
+
+**Thoughts:** Struggling to correct my routing yesterday wore me out. It was a nice break to briefly workout the logout btn and header styling.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 27 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1695152052916117915?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
