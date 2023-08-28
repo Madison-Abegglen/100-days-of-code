@@ -333,7 +333,7 @@ Day Log Template
 2. Twitter Link - [Day 25 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1694566894362042375?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 26: August 23, 2023
+### Day 26: August 24, 2023
 
 **Today's Progress:** 
 1. Fiddling with the routing - brain hurts.
@@ -345,7 +345,7 @@ Day Log Template
 2. Twitter Link - [Day 26 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1694930792772759868?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 27: August 23, 2023
+### Day 27: August 25, 2023
 
 **Today's Progress:** 
 1. Corrected Logout btn and header styling.
@@ -355,4 +355,18 @@ Day Log Template
 **Link to work:** 
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 27 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1695152052916117915?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 28: August 27, 2023
+
+**Today's Progress:** 
+1. Updated Routing (and resolved previous issue - needed json parsing to ready req.body).
+2. Created Registration functionality.
+3. Created Login functionality using tokens/cookies.
+
+**Thoughts:** What a breakthrough. I made so much progress today, and it's got me feeling really good. I'm excited to continue tomorrow, taking that 1 day break for family time was much needed.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 28 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1695925483530019052?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
