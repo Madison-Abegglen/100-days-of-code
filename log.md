@@ -357,7 +357,7 @@ Day Log Template
 2. Twitter Link - [Day 27 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1695152052916117915?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 28: August 27, 2023
+### Day 28: August 28, 2023
 
 **Today's Progress:** 
 1. Updated Routing (and resolved previous issue - needed json parsing to ready req.body).
@@ -369,4 +369,17 @@ Day Log Template
 **Link to work:** 
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 28 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1695925483530019052?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 28: August 29, 2023
+
+**Today's Progress:** 
+1. Focused on adding the physical elements for add/delete task on home
+2. Reviewed setup for add/delete functionality
+
+**Thoughts:** I'm realizing its gonna be a slight pain when plugging in all this functionality, only to go back and make changes to the task model to incorporate tasks for each individual user. Oh well
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 29 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1696251429948686381?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
