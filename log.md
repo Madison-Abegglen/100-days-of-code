@@ -357,7 +357,7 @@ Day Log Template
 2. Twitter Link - [Day 27 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1695152052916117915?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 28: August 28, 2023
+### Day 28: August 26, 2023
 
 **Today's Progress:** 
 1. Updated Routing (and resolved previous issue - needed json parsing to ready req.body).
@@ -371,7 +371,7 @@ Day Log Template
 2. Twitter Link - [Day 28 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1695925483530019052?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 28: August 29, 2023
+### Day 29: August 27, 2023
 
 **Today's Progress:** 
 1. Focused on adding the physical elements for add/delete task on home
@@ -384,7 +384,7 @@ Day Log Template
 2. Twitter Link - [Day 29 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1696251429948686381?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 28: August 30, 2023
+### Day 30: August 29, 2023
 
 **Today's Progress:** 
 1. Incorporated functionality routing to an "Add New Task" form page
