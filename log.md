@@ -394,5 +394,17 @@ Day Log Template
 
 **Link to work:** 
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
-2. Twitter Link - [Day 30 - 100DaysOfCode]()
+2. Twitter Link - [Day 30 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1696699032435900889?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 31: August 30, 2023
+
+**Today's Progress:** 
+1. Updated styling to Add Task and related components
+
+**Thoughts:** Short and sweet, and late at night. I celebrated my partners birthday today, it was great to spend some quality time on whats most important.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 31 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1697130747528708407?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
