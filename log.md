@@ -408,3 +408,16 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 31 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1697130747528708407?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 32: August 31, 2023
+
+**Today's Progress:** 
+1. Finished "Add Task" functionality.
+2. Created Delete & Edit Icons - styled accordingly. 
+
+**Thoughts:** I'm enjoying how quick I'm getting at CSS. A quick 15-30 minute side-quest of fitting in two icons onto the Task items amidst the functionality being implemented is a great way to satisfy my ADD itches. 
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 32 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1697469528601514291?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
