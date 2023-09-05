@@ -435,7 +435,7 @@ Day Log Template
 2. Twitter Link - [Day 33 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1697836342875390432?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 34: September 1, 2023
+### Day 34: September 2, 2023
 
 **Today's Progress:** 
 1. Focused on writing route functions for get/put on Update Task
@@ -447,14 +447,26 @@ Day Log Template
 2. Twitter Link - [Day 34 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1697987517692219615?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
 
-### Day 35: September 1, 2023
+### Day 35: September 3, 2023
 
 **Today's Progress:** 
-1. Finished Update Task(Edit Task) styling & functionality. Will move onto delete function next
+1. Finished Update task functionality and styling.
 
-**Thoughts:** There's always more nitpicking to do when building an app. Core functionality? Almost complete. Every little thing that bothers me or could be done better? Endless. 
+**Thoughts:** Forgot to log this day but got a good piece finished.
 
 **Link to work:** 
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 35 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1698524049184325791?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 36: September 5, 2023
+
+**Today's Progress:** 
+1. Finished Delete Task functionality and styling.
+
+**Thoughts:** Yesterday got ahead of me, leaving no room for my daily update. Today, I'm back at it.
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 36 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1699132220869317049?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
