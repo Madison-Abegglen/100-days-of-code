@@ -470,3 +470,16 @@ Day Log Template
 1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
 2. Twitter Link - [Day 36 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1699132220869317049?s=20)
 3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
+
+### Day 37: September 6, 2023
+
+**Today's Progress:** 
+1. Finished Logout functionality
+2. Updated routing for improved experience 
+
+**Thoughts:** I'm really excited because I've completed all core functionality for my app, as well as all of its styling. Now I'm moving onto my list of "nice-to-haves" and altering the Task model to attach tasks to each individual user rather than one central list. 
+
+**Link to work:** 
+1. Youtube Tut - [How to Build a Blog ...](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=4)
+2. Twitter Link - [Day 37 - 100DaysOfCode](https://twitter.com/madisonabegglen/status/1699601802210029887?s=20)
+3. Github Repo Link - [QuickDash - Dashboard App](https://twitter.com/madisonabegglen/status/1689472756406960129?s=20)
